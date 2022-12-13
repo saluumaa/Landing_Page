@@ -89,10 +89,12 @@ body{
 }
 
 .right {
+    display: flex;
     width:40%;
     background-color: rgb(180, 180, 180);
     border-radius: 25px;
     margin-bottom: 15px;
+    margin-right:48px;
     
 }
 
